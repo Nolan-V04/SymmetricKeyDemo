@@ -30,8 +30,13 @@ Step 5: Configuring our project to use the complied Crypto++ library
   - Go to Linker -> Input, then set Additional Dependencies to cryptlib.lib
   ![image](https://github.com/user-attachments/assets/a181f14f-44ad-4604-a94e-f2ab0bdccd7c)
 Note: If you find it too difficult to follow the above steps, please refer to the following video: https://www.youtube.com/watch?v=5XE4zEN-WKg
+Step 6: Open properties of solution then choose multiple start up and remember to run server first.
+![image](https://github.com/user-attachments/assets/18689e75-c2a7-4ccf-a614-0946132b552f)
 Finally: You can run project just remember to change this
-![image](https://github.com/user-attachments/assets/559495c3-b821-4215-8716-abf069ccf23a)
+![image](https://github.com/user-attachments/assets/362d0b9e-2770-4ed6-acab-e0666d1b81e9)
+
+
+
 
 
 
